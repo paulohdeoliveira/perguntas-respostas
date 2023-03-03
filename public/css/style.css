@@ -1,0 +1,14 @@
+body{
+    background-color: #e9ecef;
+}
+
+#home {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    color: #ffff;
+    margin-bottom: 5px;
+}
+
+#home-link{
+    text-decoration: none;
+}
